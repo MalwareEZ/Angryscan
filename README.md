@@ -11,6 +11,9 @@ AngryEnum is a Python script designed for automating the enumeration process on 
 * Ensure that all necessary Python modules are installed.
 * Run the script with the desired target IP address using the following command
 ```sh
+$ git clone https://github.com/MalwareEZ/Angryscan
+$ cd Angryscan
+$ pip install -r requirements.txt
 $ python3 angryenum.py -i <target>
 ```
 
